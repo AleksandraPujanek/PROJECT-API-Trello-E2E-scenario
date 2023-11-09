@@ -1,5 +1,13 @@
 # :file_folder: PROJECT: API Trello - E2E scenario
-Verification of REST API in Trello / E2E scenario.
+Verification of REST API in Trello / E2E scenario:
+- create three boards,
+- add stars to two of them,
+- create two lists "To do" and "Done" for one of the board,
+-- create a card for "To do" list,
+- add a member and a due date to the created card,
+- move the card from "To do" list to "Done" list,
+- archive the card,
+- delete the card.
 
 **Summary:** [Trello - Test Report]()
 
