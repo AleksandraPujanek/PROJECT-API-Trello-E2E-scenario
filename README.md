@@ -1,14 +1,23 @@
 # :file_folder: PROJECT: API Trello - E2E scenario
-Verification of REST API in Trello / E2E scenario:
-- create three boards,
-- add stars to two of them,
-- create two lists "To do" and "Done" for one of the board,
-- create a card for "To do" list,
-- add a member and a due date to the created card,
-- move the card from "To do" list to "Done" list,
-- archive the card,
-- delete the card.
+Verification of REST API in Trello / E2E scenario
 
+Project scope:
+- find, read and analyse REST API documentation for Trello,
+- E2E scenario:
+    - create three boards,
+    - add stars to two of them,
+    - create two lists "To do" and "Done" for one of the board,
+    - create a card for "To do" list,
+    - add a member and a due date to the created card,
+    - move the card from "To do" list to "Done" list,
+    - archive the card,
+    - delete the card,
+- create requests and test scripts in Postman,
+- apply good practisies: clean up after testing activities,
+- create Postman's collections, environment and test data,
+- run Postman collections with environment and data load from Newman,
+- create Test Report
+  
 **Summary:** [Trello - Test Report](https://drive.google.com/file/d/15d9UxWAi-sDo3G0BwWjzmtu9JhtX3BTi/view?usp=drive_link)
 
 **Tools:**
