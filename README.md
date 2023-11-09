@@ -1,4 +1,4 @@
-# :file_folder: PROJECT: API Trello - board name validation
+# :file_folder: PROJECT: API Trello - E2E scenario
 Verification of REST API in Trello / E2E scenario.
 
 **Summary:** [Trello - Test Report]()
