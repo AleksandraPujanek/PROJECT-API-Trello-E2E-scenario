@@ -23,3 +23,12 @@ Verification of REST API in Trello / E2E scenario:
 **Documentation:** [REST API Trello - documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post)
 
 **Endpoint:** https://api.trello.com/1/
+
+## Collection - P.5. Trello E2E scenario.postman_collection.json
+
+**Postman Collections:**
+- [P.5. Trello E2E scenario.postman_collection.json]()
+
+**Reports:**
+- [P.1.Trello - board name tests - QueryParams - positive_report.html]()
+
