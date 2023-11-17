@@ -1,4 +1,4 @@
-# :file_folder: PROJECT: API Trello - E2E scenario
+# :file_folder: PROJECT: API Trello - E2E scenario - Postman
 Verification of REST API in Trello / E2E scenario using Postman
 
 Project scope:
