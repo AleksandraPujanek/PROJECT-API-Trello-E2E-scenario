@@ -43,5 +43,5 @@ Project scope:
 - [P.5. Trello E2E scenario.postman_collection.json](https://drive.google.com/file/d/1-u3nVRRlqkmEd7NTcXlvOrVfkNAEzAcA/view?usp=drive_link)
 
 **Reports:**
-- [P.1.Trello - board name tests - QueryParams - positive_report.html](https://drive.google.com/file/d/1UcBYL8Ke8I4R1i0aTGkUSnFWAWdewdat/view?usp=drive_link)
+- [P.5. Trello E2E scenario_report.html](https://drive.google.com/file/d/14_tQBtcKLP10ha_TXVBUhPbGR79yK6XW/view?usp=drive_link)
 
